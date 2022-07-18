@@ -18,9 +18,10 @@
 2) Utilize o tópico:
 
     - Turma 1: **challengeoneconversorbr**
+    - Turma 2: **challengeoneconversorbr2**
 
 Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
-Adicione a tag "**challengeoneconversorbr**"
+Adicione a tag "**challengeoneconversorbr2**"
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
@@ -30,7 +31,7 @@ Adicione a tag "**challengeoneconversorbr**"
 3) Preenche o formulário de entrega com o **link do projeto publicado com GitHub Pages**
 🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one)
 
-![formulario-entrega](https://user-images.githubusercontent.com/91544872/153610784-525ff005-d667-43f1-adcc-155b5274d87b.png)
+![formulario-pt](https://user-images.githubusercontent.com/91544872/179625254-3f72f4df-b169-4be9-a11d-0d874e71c992.png)
 
 4) Acesse seu e-mail e terá a sua Badge Exclusiva do Desafio 🏆
 5) Não se esqueça de publicar um link ou vídeo do seu projeto no Linkedin! 🏁
