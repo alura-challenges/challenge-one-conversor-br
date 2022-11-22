@@ -17,11 +17,10 @@
 1) Publique o projeto no GitHub
 2) Utilize o tópico:
 
-    - Turma 1: **challengeoneconversorbr**
-    - Turma 2: **challengeoneconversorbr2**
+    - Turma 3: **challengeoneconversorbr3**
 
 Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
-Adicione a tag "**challengeoneconversorbr2**"
+Adicione a tag "**challengeoneconversorbr3**"
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
