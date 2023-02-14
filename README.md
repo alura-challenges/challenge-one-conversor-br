@@ -8,7 +8,7 @@
 
 #### Marque esse projeto com uma estrela ⭐
 #### Siga as instruções das aulas e conteúdos 📚
-#### Visite a página do Challenge [Clicando aqui!](https://www.alura.com.br/challenges/oracle-one-java) 📃
+#### Visite a página do Challenge [Clicando aqui!](https://www.alura.com.br/challenges/oracle-one-back-end/conversordemoedas) 📃
 ---
 
 ## Como listar o meu projeto neste Challenge?
@@ -17,10 +17,10 @@
 1) Publique o projeto no GitHub
 2) Utilize o tópico:
 
-    - Turma 3: **challengeoneconversorbr3**
+    - Turma 4: **challengeoneconversorbr4**
 
 Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
-Adicione a tag "**challengeoneconversorbr3**"
+Adicione a tag "**challengeoneconversorbr4**"
 
 ![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
 
@@ -28,9 +28,9 @@ Adicione a tag "**challengeoneconversorbr3**"
 ---
 
 3) Preenche o formulário de entrega com o **link do projeto publicado com GitHub Pages**
-🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one)
+🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-entrega-challenge-one-portugues-back-end)
 
-![formulario-pt](https://user-images.githubusercontent.com/91544872/179625254-3f72f4df-b169-4be9-a11d-0d874e71c992.png)
+![formulario-pt](https://user-images.githubusercontent.com/91544872/218745409-d270d24a-1430-496a-b509-55c33838431d.png)
 
 4) Acesse seu e-mail e terá a sua Badge Exclusiva do Desafio 🏆
 5) Não se esqueça de publicar um link ou vídeo do seu projeto no Linkedin! 🏁
