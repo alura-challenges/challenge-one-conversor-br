@@ -14,13 +14,13 @@
 ## Como realizar a entrega final do meu projeto?
 ---
 
-3) Preenche o formulário de entrega com o **link do projeto publicado em GitHub**
+1) Preenche o formulário de entrega com o **link do projeto publicado em GitHub**
 🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-entrega-challenge-one-portugues-back-end)
 
 ![formulario-pt](https://user-images.githubusercontent.com/91544872/218745409-d270d24a-1430-496a-b509-55c33838431d.png)
 
-4) Acesse seu e-mail e terá a sua Badge Exclusiva do Desafio 🏆
-5) Não se esqueça de publicar um link ou vídeo do seu projeto no Linkedin! 🏁
+2) Acesse seu e-mail e terá a sua Badge Exclusiva do Desafio 🏆
+3) Não se esqueça de publicar um link ou vídeo do seu projeto no Linkedin! 🏁
 
     <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 
