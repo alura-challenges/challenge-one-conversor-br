@@ -11,23 +11,10 @@
 #### Visite a página do Challenge [Clicando aqui!](https://www.alura.com.br/challenges/oracle-one-back-end/conversordemoedas) 📃
 ---
 
-## Como listar o meu projeto neste Challenge?
----
-
-1) Publique o projeto no GitHub
-2) Utilize o tópico:
-
-    - Turma 4: **challengeoneconversorbr4**
-
-Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
-Adicione a tag "**challengeoneconversorbr4**"
-
-![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
-
 ## Como realizar a entrega final do meu projeto?
 ---
 
-3) Preenche o formulário de entrega com o **link do projeto publicado com GitHub Pages**
+3) Preenche o formulário de entrega com o **link do projeto publicado em GitHub**
 🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-entrega-challenge-one-portugues-back-end)
 
 ![formulario-pt](https://user-images.githubusercontent.com/91544872/218745409-d270d24a-1430-496a-b509-55c33838431d.png)
